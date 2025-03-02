@@ -17,5 +17,5 @@ You can download Ollama from: [https://ollama.ai](https://ollama.ai)
 ### 2. Install the Extension
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/codex-vscode.git
-   cd codex-vscode
+   https://github.com/mohitthakur2007/Codex.git
+   cd codex
